@@ -24,7 +24,8 @@
 ---
 
 ## 💼 Projects  
-- 🔍 [Image Matching Project](https://github.com/mohitkumar/image-matching)  
+- 🔍 [Image Matching Project](https://github.com/mohitkumar/image-matching)
+- 🧠 [Covid Analysis](https://github.com/mohitkumar/covid-analysis)
 - 🧠 [Java DSA Practice](https://github.com/mohitkumar/java-dsa)  
 
 ---
