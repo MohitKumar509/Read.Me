@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mohit Kumar
 
 - 🎓 Engineering Student at Galgotias University  
-- 💻 Passionate about Java and Data Structures  
+- 💻 Passionate about Java Data Analytics Data Structures  
 - 🔍 Currently preparing for placements at top tech companies  
 
 ---
