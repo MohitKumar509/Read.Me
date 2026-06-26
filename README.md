@@ -86,11 +86,11 @@ I enjoy building scalable backend applications, developing AI-powered solutions,
 
 📧 **Email:** mohitrajput27780@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://linkedin.com/in/mohit-kumar-7636a92a8/
 
 💻 **GitHub:** https://github.com/MohitKumar509
 
-🧩 **LeetCode:** https://leetcode.com/YOUR-USERNAME
+🧩 **LeetCode:** https://leetcode.com/i_am_mohit_81/
 
 ---
 
