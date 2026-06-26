@@ -1,35 +1,99 @@
-## 👋 Hi, I'm Mohit Kumar
+# 👋 Hi, I'm Mohit Kumar
 
-- 🎓 Engineering Student at Galgotias University  
-- 💻 Passionate about Java Data Analytics Data Structures  
-- 🔍 Currently preparing for placements at top tech companies  
+### 🚀 AI/ML Enthusiast | Backend Developer | Java Programmer
 
----
+I'm a **B.Tech Computer Science & Engineering (AI & ML)** student at **Galgotias University** with a passion for **Software Development, Backend Engineering, Artificial Intelligence, and Data Structures & Algorithms**.
 
-## 🛠️ Languages & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+I enjoy building scalable backend applications, developing AI-powered solutions, and solving real-world problems through technology. I'm currently preparing for Software Development Engineer (SDE) and AI/ML roles while continuously improving my technical skills.
 
 ---
 
-## 📈 GitHub Stats  
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitkumar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumar&layout=compact&theme=radical)  
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 🏫 Galgotias University (2023 – 2027)
+- 💻 Passionate about Software Development, AI & Machine Learning
+- 🚀 Strong in Java, Python, SQL, FastAPI & REST APIs
+- 🧩 Solved **200+ Data Structures & Algorithms** problems on LeetCode
+- 🌱 Currently learning Backend Development, System Design & Advanced DSA
+- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumar&theme=radical)  
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Java
+- Python
+- SQL
+
+### ⚙️ Backend Development
+- FastAPI
+- Flask
+- REST APIs
+
+### 🤖 AI & Machine Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- YOLOv5
+
+### 🗄️ Database
+- MySQL
+
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
 
 ---
 
-## 💼 Projects  
-- 🔍 [Image Matching Project](https://github.com/mohitkumar/image-matching)
-- 🧠 [Covid Analysis](https://github.com/mohitkumar/covid-analysis)
-- 🧠 [Java DSA Practice](https://github.com/mohitkumar/java-dsa)  
+# 🚀 Featured Projects
+
+## 🎯 Real-Time Object Detection using YOLOv5
+- Built a real-time object detection system using **YOLOv5** and **OpenCV**
+- Fine-tuned pretrained models on custom datasets achieving **74.8% mAP**
+- Applied data augmentation and hyperparameter tuning to improve detection performance
 
 ---
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-kumar-7636a92a8)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitrajput27780@gmail.com)
+## 😊 AI-Based Emotion Detection System
+- Developed a facial emotion recognition system using **TensorFlow** and **OpenCV**
+- Built a real-time emotion detection pipeline using webcam input
+- Optimized image preprocessing and inference pipeline for better performance
+
+---
+
+## 📊 COVID Data Analysis
+- Performed data cleaning, preprocessing, and visualization using **Python**, **Pandas**, and **NumPy**
+- Conducted exploratory data analysis to identify meaningful trends and insights
+- Built informative visualizations to support data-driven decision-making
+
+---
+
+# 📈 Coding Profiles
+
+- 💻 **LeetCode:** 200+ Problems Solved
+- 🌐 **GitHub:** Actively building AI & Backend projects
+- 💼 **LinkedIn:** Open to internship and placement opportunities
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** mohitrajput27780@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+
+💻 **GitHub:** https://github.com/MohitKumar509
+
+🧩 **LeetCode:** https://leetcode.com/YOUR-USERNAME
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to ⭐ my repositories and connect with me. I'm always open to learning, collaborating, and contributing to exciting projects.
